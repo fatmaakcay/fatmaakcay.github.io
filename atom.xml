@@ -1,32 +1,134 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Fatma Akcay</title>
+  <title>Akcay</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fatmaakcay.github.io/"/>
-  <updated>2018-03-20T00:03:03.000Z</updated>
+  <updated>2018-03-21T23:18:23.000Z</updated>
   <id>http://fatmaakcay.github.io/</id>
   
   <author>
-    <name>Fatma Akcay</name>
+    <name>Akcay</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>first-post</title>
-    <link href="http://fatmaakcay.github.io/2018/03/20/first-post/"/>
-    <id>http://fatmaakcay.github.io/2018/03/20/first-post/</id>
-    <published>2018-03-20T00:03:03.000Z</published>
-    <updated>2018-03-20T00:03:03.000Z</updated>
+    <title>MultiAgent Systems</title>
+    <link href="http://fatmaakcay.github.io/2016/05/01/multi-agent-systems/"/>
+    <id>http://fatmaakcay.github.io/2016/05/01/multi-agent-systems/</id>
+    <published>2016-04-30T23:00:00.000Z</published>
+    <updated>2018-03-21T23:18:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="row"><embed src="/pdf/multi-agent-systems.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
     <summary type="html">
     
+      Algorithm and simulation of a multi-agent swarm system applied to warehouse package delivery.
+    
     </summary>
     
+    
+      <category term="artifical intelligence" scheme="http://fatmaakcay.github.io/tags/artifical-intelligence/"/>
+    
+      <category term="machine learning" scheme="http://fatmaakcay.github.io/tags/machine-learning/"/>
+    
+      <category term="pacman" scheme="http://fatmaakcay.github.io/tags/pacman/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Robot Party</title>
+    <link href="http://fatmaakcay.github.io/2016/05/01/robot-party/"/>
+    <id>http://fatmaakcay.github.io/2016/05/01/robot-party/</id>
+    <published>2016-04-30T23:00:00.000Z</published>
+    <updated>2018-03-21T23:18:19.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="row"><embed src="/pdf/robot-party.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    <summary type="html">
+    
+      Autonomous robot-party-photographer.
+    
+    </summary>
+    
+    
+      <category term="artifical intelligence" scheme="http://fatmaakcay.github.io/tags/artifical-intelligence/"/>
+    
+      <category term="machine learning" scheme="http://fatmaakcay.github.io/tags/machine-learning/"/>
+    
+      <category term="robots" scheme="http://fatmaakcay.github.io/tags/robots/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Emoji Recognition</title>
+    <link href="http://fatmaakcay.github.io/2015/09/01/emoji-recognition/"/>
+    <id>http://fatmaakcay.github.io/2015/09/01/emoji-recognition/</id>
+    <published>2015-08-31T23:00:00.000Z</published>
+    <updated>2018-03-21T23:21:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="row"><embed src="/pdf/emoji-recognition.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    <summary type="html">
+    
+      Comparing training methods for neural nets to learn classification of hand-drawn emojis.
+    
+    </summary>
+    
+    
+      <category term="machine learning" scheme="http://fatmaakcay.github.io/tags/machine-learning/"/>
+    
+      <category term="neural nets" scheme="http://fatmaakcay.github.io/tags/neural-nets/"/>
+    
+      <category term="genetic algorithm" scheme="http://fatmaakcay.github.io/tags/genetic-algorithm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IoT Fall Detection</title>
+    <link href="http://fatmaakcay.github.io/2015/09/01/fall-detection/"/>
+    <id>http://fatmaakcay.github.io/2015/09/01/fall-detection/</id>
+    <published>2015-08-31T23:00:00.000Z</published>
+    <updated>2018-03-21T23:17:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="row"><embed src="/pdf/fall-detection.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    <summary type="html">
+    
+      Multi-sensor system to detect falls of subjects in indoor areas.
+    
+    </summary>
+    
+    
+      <category term="machine learning" scheme="http://fatmaakcay.github.io/tags/machine-learning/"/>
+    
+      <category term="internet of things" scheme="http://fatmaakcay.github.io/tags/internet-of-things/"/>
+    
+      <category term="LIDAR" scheme="http://fatmaakcay.github.io/tags/LIDAR/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jellyfish Collagen</title>
+    <link href="http://fatmaakcay.github.io/2014/07/01/jelly-fish/"/>
+    <id>http://fatmaakcay.github.io/2014/07/01/jelly-fish/</id>
+    <published>2014-07-01T22:17:03.000Z</published>
+    <updated>2018-03-21T23:23:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="row"><embed src="/pdf/jelly-fish.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    <summary type="html">
+    
+      Environmentally friendly jellyfish-sourced collagen.
+    
+    </summary>
+    
+    
+      <category term="biomedical engineering" scheme="http://fatmaakcay.github.io/tags/biomedical-engineering/"/>
     
   </entry>
   
