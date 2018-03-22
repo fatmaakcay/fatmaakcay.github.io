@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://fatmaakcay.github.io/"/>
+  <link href="/aboutme/"/>
   <updated>2018-03-21T23:18:23.000Z</updated>
-  <id>http://fatmaakcay.github.io/</id>
+  <id>/aboutme/</id>
   
   <author>
     <name>Akcay</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>MultiAgent Systems</title>
-    <link href="http://fatmaakcay.github.io/2016/05/01/multi-agent-systems/"/>
-    <id>http://fatmaakcay.github.io/2016/05/01/multi-agent-systems/</id>
+    <link href="/aboutme/2016/05/01/multi-agent-systems/"/>
+    <id>/aboutme/2016/05/01/multi-agent-systems/</id>
     <published>2016-04-30T23:00:00.000Z</published>
     <updated>2018-03-21T23:18:23.000Z</updated>
     
@@ -32,18 +32,18 @@
     </summary>
     
     
-      <category term="machine learning" scheme="http://fatmaakcay.github.io/tags/machine-learning/"/>
+      <category term="machine learning" scheme="/aboutme/tags/machine-learning/"/>
     
-      <category term="artifical intelligence" scheme="http://fatmaakcay.github.io/tags/artifical-intelligence/"/>
+      <category term="artifical intelligence" scheme="/aboutme/tags/artifical-intelligence/"/>
     
-      <category term="pacman" scheme="http://fatmaakcay.github.io/tags/pacman/"/>
+      <category term="pacman" scheme="/aboutme/tags/pacman/"/>
     
   </entry>
   
   <entry>
     <title>Robot Party</title>
-    <link href="http://fatmaakcay.github.io/2016/05/01/robot-party/"/>
-    <id>http://fatmaakcay.github.io/2016/05/01/robot-party/</id>
+    <link href="/aboutme/2016/05/01/robot-party/"/>
+    <id>/aboutme/2016/05/01/robot-party/</id>
     <published>2016-04-30T23:00:00.000Z</published>
     <updated>2018-03-21T23:18:19.000Z</updated>
     
@@ -56,18 +56,18 @@
     </summary>
     
     
-      <category term="machine learning" scheme="http://fatmaakcay.github.io/tags/machine-learning/"/>
+      <category term="machine learning" scheme="/aboutme/tags/machine-learning/"/>
     
-      <category term="artifical intelligence" scheme="http://fatmaakcay.github.io/tags/artifical-intelligence/"/>
+      <category term="artifical intelligence" scheme="/aboutme/tags/artifical-intelligence/"/>
     
-      <category term="robots" scheme="http://fatmaakcay.github.io/tags/robots/"/>
+      <category term="robots" scheme="/aboutme/tags/robots/"/>
     
   </entry>
   
   <entry>
     <title>Emoji Recognition</title>
-    <link href="http://fatmaakcay.github.io/2015/09/01/emoji-recognition/"/>
-    <id>http://fatmaakcay.github.io/2015/09/01/emoji-recognition/</id>
+    <link href="/aboutme/2015/09/01/emoji-recognition/"/>
+    <id>/aboutme/2015/09/01/emoji-recognition/</id>
     <published>2015-08-31T23:00:00.000Z</published>
     <updated>2018-03-21T23:21:44.000Z</updated>
     
@@ -80,18 +80,18 @@
     </summary>
     
     
-      <category term="machine learning" scheme="http://fatmaakcay.github.io/tags/machine-learning/"/>
+      <category term="machine learning" scheme="/aboutme/tags/machine-learning/"/>
     
-      <category term="neural nets" scheme="http://fatmaakcay.github.io/tags/neural-nets/"/>
+      <category term="neural nets" scheme="/aboutme/tags/neural-nets/"/>
     
-      <category term="genetic algorithm" scheme="http://fatmaakcay.github.io/tags/genetic-algorithm/"/>
+      <category term="genetic algorithm" scheme="/aboutme/tags/genetic-algorithm/"/>
     
   </entry>
   
   <entry>
     <title>IoT Fall Detection</title>
-    <link href="http://fatmaakcay.github.io/2015/09/01/fall-detection/"/>
-    <id>http://fatmaakcay.github.io/2015/09/01/fall-detection/</id>
+    <link href="/aboutme/2015/09/01/fall-detection/"/>
+    <id>/aboutme/2015/09/01/fall-detection/</id>
     <published>2015-08-31T23:00:00.000Z</published>
     <updated>2018-03-21T23:17:29.000Z</updated>
     
@@ -104,18 +104,18 @@
     </summary>
     
     
-      <category term="machine learning" scheme="http://fatmaakcay.github.io/tags/machine-learning/"/>
+      <category term="machine learning" scheme="/aboutme/tags/machine-learning/"/>
     
-      <category term="internet of things" scheme="http://fatmaakcay.github.io/tags/internet-of-things/"/>
+      <category term="internet of things" scheme="/aboutme/tags/internet-of-things/"/>
     
-      <category term="LIDAR" scheme="http://fatmaakcay.github.io/tags/LIDAR/"/>
+      <category term="LIDAR" scheme="/aboutme/tags/LIDAR/"/>
     
   </entry>
   
   <entry>
     <title>Jellyfish Collagen</title>
-    <link href="http://fatmaakcay.github.io/2014/07/01/jelly-fish/"/>
-    <id>http://fatmaakcay.github.io/2014/07/01/jelly-fish/</id>
+    <link href="/aboutme/2014/07/01/jelly-fish/"/>
+    <id>/aboutme/2014/07/01/jelly-fish/</id>
     <published>2014-07-01T22:17:03.000Z</published>
     <updated>2018-03-21T23:23:24.000Z</updated>
     
@@ -128,7 +128,7 @@
     </summary>
     
     
-      <category term="biomedical engineering" scheme="http://fatmaakcay.github.io/tags/biomedical-engineering/"/>
+      <category term="biomedical engineering" scheme="/aboutme/tags/biomedical-engineering/"/>
     
   </entry>
   
