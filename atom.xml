@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/aboutme/"/>
-  <updated>2018-03-21T23:18:23.000Z</updated>
+  <updated>2018-04-08T12:32:00.000Z</updated>
   <id>/aboutme/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CV</title>
+    <link href="/aboutme/2018/04/01/cv/"/>
+    <id>/aboutme/2018/04/01/cv/</id>
+    <published>2018-03-31T23:00:00.000Z</published>
+    <updated>2018-04-08T12:32:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="row"><embed src="/pdf/cv.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    <summary type="html">
+    
+      Last updated April 2018
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>MultiAgent Systems</title>
