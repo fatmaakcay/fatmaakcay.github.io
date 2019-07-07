@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/aboutme/"/>
-  <updated>2019-03-13T20:22:05.897Z</updated>
+  <updated>2019-07-07T18:30:45.999Z</updated>
   <id>/aboutme/</id>
   
   <author>
@@ -18,16 +18,16 @@
   
   <entry>
     <title>CV</title>
-    <link href="/aboutme/2019/03/13/cv/"/>
-    <id>/aboutme/2019/03/13/cv/</id>
-    <published>2019-03-13T00:00:00.000Z</published>
-    <updated>2019-03-13T20:22:05.897Z</updated>
+    <link href="/aboutme/2019/07/07/cv/"/>
+    <id>/aboutme/2019/07/07/cv/</id>
+    <published>2019-07-06T23:00:00.000Z</published>
+    <updated>2019-07-07T18:30:45.999Z</updated>
     
     <content type="html"><![CDATA[<div class="row"><embed src="/pdf/cv.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
     <summary type="html">
     
-      Last updated March 2019
+      Last updated July 2019
     
     </summary>
     
@@ -83,30 +83,6 @@
   </entry>
   
   <entry>
-    <title>IoT Fall Detection</title>
-    <link href="/aboutme/2015/09/01/fall-detection/"/>
-    <id>/aboutme/2015/09/01/fall-detection/</id>
-    <published>2015-08-31T23:00:00.000Z</published>
-    <updated>2018-03-21T23:17:29.000Z</updated>
-    
-    <content type="html"><![CDATA[<div class="row"><embed src="/pdf/fall-detection.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
-    
-    <summary type="html">
-    
-      Multi-sensor system to detect falls of subjects in indoor areas.
-    
-    </summary>
-    
-    
-      <category term="machine learning" scheme="/aboutme/tags/machine-learning/"/>
-    
-      <category term="internet of things" scheme="/aboutme/tags/internet-of-things/"/>
-    
-      <category term="LIDAR" scheme="/aboutme/tags/LIDAR/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Emoji Recognition</title>
     <link href="/aboutme/2015/09/01/emoji-recognition/"/>
     <id>/aboutme/2015/09/01/emoji-recognition/</id>
@@ -127,6 +103,30 @@
       <category term="neural nets" scheme="/aboutme/tags/neural-nets/"/>
     
       <category term="genetic algorithm" scheme="/aboutme/tags/genetic-algorithm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IoT Fall Detection</title>
+    <link href="/aboutme/2015/09/01/fall-detection/"/>
+    <id>/aboutme/2015/09/01/fall-detection/</id>
+    <published>2015-08-31T23:00:00.000Z</published>
+    <updated>2018-03-21T23:17:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="row"><embed src="/pdf/fall-detection.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    <summary type="html">
+    
+      Multi-sensor system to detect falls of subjects in indoor areas.
+    
+    </summary>
+    
+    
+      <category term="machine learning" scheme="/aboutme/tags/machine-learning/"/>
+    
+      <category term="internet of things" scheme="/aboutme/tags/internet-of-things/"/>
+    
+      <category term="LIDAR" scheme="/aboutme/tags/LIDAR/"/>
     
   </entry>
   
